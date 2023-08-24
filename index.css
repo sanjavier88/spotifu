@@ -1,0 +1,25 @@
+@import './icons.css';
+@import './fonts.css';
+@import './body.css';
+@import './link.css';
+@import './buttonIcon.css';
+
+:root {
+    --primaryColor: #00B050;
+    --white: #ffffff;
+    --gray10: #B3B3B3;
+    --gray20: #737373;
+    --gray30: #282828;
+    --gray40: #181818;
+    --gray50: #121212;
+    --gray60: #000000;
+    --basefontFamily: Avenir, Helvetica, san-serif;
+    --headLine1: bold 2rem/normal var(--basefontFamily);
+    --headLine2: bold 1.5rem/1.75 var(--basefontFamily);
+    --baseFont: normal .875rem/1.375 var(--basefontFamily);
+    --baseFont: bold .875rem/1.375 var(--basefontFamily);
+    --button: bold .875rem/1 var(--basefontFamily);
+    --button: bold .75em/normal var(--basefontFamily);
+
+}
+
